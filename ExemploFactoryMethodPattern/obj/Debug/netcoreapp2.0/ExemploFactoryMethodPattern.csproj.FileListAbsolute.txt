@@ -1,0 +1,11 @@
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\bin\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.deps.json
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\bin\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.runtimeconfig.json
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\bin\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.runtimeconfig.dev.json
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\bin\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.dll
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\bin\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.pdb
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\obj\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.csprojAssemblyReference.cache
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\obj\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\obj\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\obj\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.AssemblyInfo.cs
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\obj\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.dll
+C:\Users\Raah\source\repos\ExemploFactoryMethodPattern\ExemploFactoryMethodPattern\obj\Debug\netcoreapp2.0\ExemploFactoryMethodPattern.pdb
